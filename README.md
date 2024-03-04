@@ -2,6 +2,8 @@
 
 ## Demo
 
+https://idea-theorem-exam.vercel.app
+
 ## Development
 
 `$ npm install`
@@ -10,9 +12,13 @@
 
 ## Libraries used
 
-1. UI/UX Library - Mantine
-2. Schema validation - Zod
+1. UI/UX library - [Mantine](https://mantine.dev/)
+2. Schema validation - [Zod](https://zod.dev/)
+3. HTTP library - [Axios](https://axios-http.com/docs/intro)
+4. Date library - [Dayjs](https://day.js.org/)
 
-## Build and deployment
+## Build and deploy
 
 `$ npm run build`
+
+This will create the `dist` folder, which contains the built files.
